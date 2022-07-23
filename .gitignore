@@ -1,0 +1,11 @@
+.DS_Store
+
+# Energia libraries
+libraries/ 
+
+# TeX files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz

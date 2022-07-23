@@ -1,0 +1,5 @@
+red: 1.733
+green: 1.871
+blue: 2.417
+2 parallel red: 1.695
+2 series red: 3.207
